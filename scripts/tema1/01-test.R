@@ -1,7 +1,6 @@
 #Esta línea no funciona, por ahora...
 #lm(y~x)
 
-#holsa edgsr ret re
 require(graphics)
 
 ## Annette Dobson (1990) "An Introduction to Generalized Linear Models".
@@ -21,3 +20,4 @@ plot(lm.D9, las = 1)      # Residuals, Fitted, ...
 par(opar)
 
 ### less simple examples in "See Also" above
+
